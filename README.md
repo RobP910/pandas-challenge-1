@@ -2,21 +2,16 @@
 module challenge focused on data analysis with Python's Pandas library
 
 ## Challenge Instructions
-
 # Part 1: Explore the Data
 ## In this part, you will import the data and use Pandas to learn more about the dataset.
 ### Import the data from the CSV file.
 - View the column names.
 - Use the describe function to gather some basic statistics.
 - Use the provided space to explore and make yourself familiar with the data. Feel free to create more cells as needed.
- 
 ### Answer the following questions using Pandas:
 - What three item categories had the most entries?
-
 - For the category with the most entries, which subcategory had the most entries?
-
 - Which five clients had the most entries in the data?
-
 ### Store the client ids of those top 5 clients in a list.
 - How many total units (the qty column) did the client with the most entries order?
 
@@ -47,10 +42,8 @@ module challenge focused on data analysis with Python's Pandas library
     - total revenue
     - total profit
     Sort by total profit.
-
 ### - Format the data and rename the columns to names suitable for presentation.
     Currency should be in millions of dollars.
-
 ### - Write a brief 2-3 sentence summary of your findings.
 
 ## Hints and Considerations
