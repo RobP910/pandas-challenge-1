@@ -45,8 +45,7 @@ module challenge focused on data analysis with Python's Pandas library
 ### - Format the data and rename the columns to names suitable for presentation.
     Currency should be in millions of dollars.
 ### - Write a brief 2-3 sentence summary of your findings.
-
-## Hints and Considerations
-### Use the Pandas DataFrame documentationLinks to an external site. to find helpful functions. Feel free to use functions that you didn’t learn in class if you find they make the work easier!
-### Remember to make functions whenever appropriate and name them well. Functions are helpful both for performing operations and for making code more readable.
-### Don’t forget to use all the steps in the analytical process! It can be especially hard to remember the steps that come before the coding starts. Define the question before you begin, and make sure to read to the end of the instructions first. If there are steps that don’t make sense yet, use the space reserved for data exploration to try and understand it.
+Client 24741 had the 1st in qty sold and a profit margin of 80.0.
+Client 38378 had the 2nd in qty sold and a profit margin of 34.0.
+Client 66037 had the 3rd in qty sold and a profit margin of 46.6.
+The data shows that while selling the most usually gets you 1st place in profits, it doesn't garentee the profits as shown with 2nd place.
